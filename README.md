@@ -4,8 +4,6 @@ This is a simple multi-page personal portfolio website built using **HTML** and 
 
 ## 🔍 Features
 
-- Responsive design for desktop and mobile
-- Clean layout and navigation
 - SEO-friendly meta tags
 - Open Graph integration for social sharing
 - Pages included: Home, Projects, Articles, Contact
@@ -27,7 +25,7 @@ This is a simple multi-page personal portfolio website built using **HTML** and 
 
 ## 🔗 Live Demo
 
-👉 [View on GitHub Pages](https://rskisptra.github.io/portfolio-website)
+👉 [View on GitHub Pages](https://rskisptra.github.io/HTML-website/)
 
 ## 📫 Contact
 
